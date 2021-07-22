@@ -1,0 +1,3 @@
+[submodule "private-configuration"]
+	path = private-configuration
+	url = https://github.com/gpu-is-mine/private-configuration.git
